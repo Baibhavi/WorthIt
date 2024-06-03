@@ -229,6 +229,8 @@ img{
     margin: 1rem 0.7rem 0 0;
 }
 
+
+
 @media(max-width: 450px){
     .logo p{
         font-size: 1.4rem;
